@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/* header>div > h1, h2, h3{
+    padding: 0px;
+    text-align: center;
+} */
+
+
+
+h1#semoji{
+    display: none;
+}
