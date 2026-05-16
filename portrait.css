@@ -5,7 +5,7 @@ header>div > h1, h2, h3{
     text-align: center;
 }
 
-h1#emoji{
+span{
     display: none;
 }
 
