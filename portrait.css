@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
-header>div > h1, h2, h3{
+header>div > h1, h2, h3 {
+    width: 90vw;
     padding: 0px;
     text-align: center;
 }
